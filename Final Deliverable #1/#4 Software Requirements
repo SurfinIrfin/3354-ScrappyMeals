@@ -1,0 +1,15 @@
+PART 4: Software Requirements (Po-Yu)
+
+a. Functional Requirements
+  1.Allow user input for ingredients
+  2.Back-end filtering of ingredient information 
+  3.Hold database of recipes
+  4.Connect database recipe to filter for ingredients 
+  5.Output recipe options for the user 
+b. Nonfunctional Requirements 
+  1.Delete duplicate ingredients
+  2.Complete filtering of ingredients and output recipe within 5 seconds 
+  3.Provide at least one alternative recipe even if ingredients don't match
+  4.Allow organizations to add their recipes 
+  5.Ensure the recipe database complies with Intellectual Property laws 
+  
