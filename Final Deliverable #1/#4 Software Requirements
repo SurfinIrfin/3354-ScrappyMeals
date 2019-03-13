@@ -4,12 +4,13 @@ a. Functional Requirements
   1.Allow user input for ingredients
   2.Back-end filtering of ingredient information 
   3.Hold database of recipes
-  4.Connect database recipe to filter for ingredients 
+  4.Connect recipe database to filter for ingredients to search for potential recipes 
   5.Output recipe options for the user 
+  
 b. Nonfunctional Requirements 
   1.Delete duplicate ingredients
   2.Complete filtering of ingredients and output recipe within 5 seconds 
   3.Provide at least one alternative recipe even if ingredients don't match
-  4.Allow organizations to add their recipes 
+  4.Allow organizations that use this system to add their own recipes to database 
   5.Ensure the recipe database complies with Intellectual Property laws 
   
